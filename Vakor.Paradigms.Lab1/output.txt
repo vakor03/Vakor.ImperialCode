@@ -1,3 +1,0 @@
-hello - 4
-world - 2
-why - 1

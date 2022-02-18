@@ -1,1 +1,0 @@
-Vakor.Paradigms
